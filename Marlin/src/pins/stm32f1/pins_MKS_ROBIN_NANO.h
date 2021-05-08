@@ -88,9 +88,9 @@
 #define E0_STEP_PIN                         PD6
 #define E0_DIR_PIN                          PD3
 
-#define E1_ENABLE_PIN                       PA3
-#define E1_STEP_PIN                         PA6
-#define E1_DIR_PIN                          PA1
+#define Z2_ENABLE_PIN                       PA3
+#define Z2_STEP_PIN                         PA6
+#define Z2_DIR_PIN                          PA1
 
 //
 // Temperature Sensors
@@ -153,7 +153,7 @@
   #define FIL_RUNOUT2_PIN                   PE6
 #endif
 
-//#define LED_PIN                           PB2
+#define LED_PIN                           PB2
 
 //
 // SD Card
